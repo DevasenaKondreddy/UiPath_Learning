@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V9X1KbdT6USRKCI-mh7xTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://petstore.octoperf.com/actions/Account.action?signonForm=" CvTextArea="1060, 492, 137, 24" CvTextArgument="Register Now!" CvType="Text" DesignTimeRectangle="1062, 491, 135, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Register Now!'" FullSelectorArgument="&lt;webctrl parentid='Catalog' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='Catalog' tag='A' type='' class='' aaname='Register Now!' check:innerText='Register Now!' /&gt;" Guid="d52b17c1-7e4c-4ae0-9642-6e624b05d06c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2e27706eb7277d0a34267819901c0168.png" xmlns="">0cpmp89-aHkmjlGFsaePDdQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

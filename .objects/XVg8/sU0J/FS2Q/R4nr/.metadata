@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Numeric_Zip",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "R4nrFOHMF0Gxw8zviIABmA",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/R4nrFOHMF0Gxw8zviIABmA",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T10:57:19.0971468Z",
+  "Updated": "2024-02-05T10:57:34.5865125Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

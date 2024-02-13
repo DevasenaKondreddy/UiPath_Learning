@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Numeric_PhoneNumber",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "tykV2rGV70qe8V2Be2D_uw",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/tykV2rGV70qe8V2Be2D_uw",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T10:41:27.3696996Z",
+  "Updated": "2024-02-05T10:41:48.6059121Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

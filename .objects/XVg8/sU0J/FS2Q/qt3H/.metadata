@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TextBox_RepeatPassword",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "qt3HV80pBEGQtzAN2MjCxg",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/qt3HV80pBEGQtzAN2MjCxg",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T09:48:11.13526Z",
+  "Updated": "2024-02-05T09:48:30.5340265Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

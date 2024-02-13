@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Page_RegisterPage",
+  "Type": "Screen",
+  "Id": "FS2QyYAgBUWAaJctI8EKHQ",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/sU0JIUbQm0KUGvma0eMONw",
+  "Created": "2024-02-05T09:09:16.2995711Z",
+  "Updated": "2024-02-05T09:09:20.9942211Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

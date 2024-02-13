@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TextBox_Address1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "6mt5MPslmk-nn5-_mvClSg",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/6mt5MPslmk-nn5-_mvClSg",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T10:47:53.1322845Z",
+  "Updated": "2024-02-05T10:48:12.9923914Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AHM0M_sTxU-oZnX73K1hkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://petstore.octoperf.com/actions/Account.action?newAccountForm=" CvTextArea="999, 735, 67, 22" CvTextArgument="english" CvType="Text" DesignTimeRectangle="995, 733, 117, 26" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'english'" FullSelectorArgument="&lt;webctrl idx='3' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='SELECT' class='' aaname='' /&gt;" Guid="cc2e7955-1256-46d7-ad44-a977e1a72323" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="771, 733, 213, 24" CvTextArgument="Language Preference:" CvType="Text" DesignTimeRectangle="770, 729, 219, 33" ElementType="Text" FriendlyName="'Language Preference'" FullSelectorArgument="&lt;webctrl idx='3' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='' aaname='Language Preference:' check:innerText='Language Preference:' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2e3e509c3a3da83c7e2ab2aa467d049.png" xmlns="">0KNyFMi0Izku1O6BDwMZIQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZirlrQ53a0G9wmf0qvFmJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://petstore.octoperf.com/actions/Account.action?newAccountForm=" CvTextArea="997, 769, 49, 21" CvTextArgument="FISH" CvType="Text" DesignTimeRectangle="995, 768, 132, 26" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'FISH'" FullSelectorArgument="&lt;webctrl idx='3' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='SELECT' class='' aaname='' /&gt;" Guid="9f91a437-6ae3-401d-b7bc-77e484179211" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="771, 769, 188, 22" CvTextArgument="Favourite Category:" CvType="Text" DesignTimeRectangle="770, 765, 219, 33" ElementType="Text" FriendlyName="'Favourite Category'" FullSelectorArgument="&lt;webctrl idx='3' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='' aaname='Favourite Category:' check:innerText='Favourite Category:' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8117241d1862e4b18ede8646c391fb49.png" xmlns="">0dy09evc25Eqgw8kCrDqs9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

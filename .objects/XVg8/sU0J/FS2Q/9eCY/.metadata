@@ -1,0 +1,16 @@
+﻿{
+  "Name": "DropDownBox_LanguagePrefe",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "9eCYIkshv0C2A9CbHCIhSA",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/9eCYIkshv0C2A9CbHCIhSA",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T11:58:12.4404591Z",
+  "Updated": "2024-02-05T11:58:37.330256Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "JPetStore",
+  "Description": "JPetStore Sign in",
+  "Type": "App",
+  "Id": "XVg8g5x_8Eafy6Zkc6jVyA",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/XVg8g5x_8Eafy6Zkc6jVyA",
+  "Created": "2024-02-05T05:59:05.3367591Z",
+  "Updated": "2024-02-05T05:59:05.3367591Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

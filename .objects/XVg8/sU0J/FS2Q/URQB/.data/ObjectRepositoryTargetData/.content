@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BSxHHZOpX0ixWKSk8EcGdA" Reference="i0sEFnm-MUuRZWInYSL7AA/URQBI6dmvUi1uEdpCJrSCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://petstore.octoperf.com/actions/Account.action?newAccountForm=" CvElementArea="911, 338, 260, 36" CvType="InputBox" DesignTimeRectangle="914, 341, 255, 32" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'INPUT stripes-1930712441'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='stripes-1930712441' tableRow='1' tag='INPUT' /&gt;" FuzzyAccuracy="0.89" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='stripes-1930712441' type='text' tag='INPUT' class='' aaname='' /&gt;" Guid="21075307-f5aa-45d0-9318-33af7ab920ca" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopLeft" X="84" Y="10" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="2ad334ae2bc4fbba8e9f0b4466ee7231.png" xmlns="">0VKMENY83Nk6Drt2Mwz42uQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

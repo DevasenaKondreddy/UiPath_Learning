@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click_SigninLink",
+  "Description": "Clicking Signin link in Home Page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "hEws_GEESE2YSn_Mcu_cnw",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/hEws_GEESE2YSn_Mcu_cnw",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/0Cr-JDeQpEGHvQM3pEXxiQ",
+  "Created": "2024-02-05T09:03:44.6415364Z",
+  "Updated": "2024-02-05T09:04:16.2326334Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

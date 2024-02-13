@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TextBox_NewPassword",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "1WnwNsVhakekurX6HDumuw",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/1WnwNsVhakekurX6HDumuw",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T09:13:50.9086622Z",
+  "Updated": "2024-02-05T09:14:18.6317697Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

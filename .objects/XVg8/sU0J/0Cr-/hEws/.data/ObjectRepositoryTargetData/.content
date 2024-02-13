@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y2EXQlK5QEqu3zUA9l-QaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://petstore.octoperf.com/actions/Catalog.action;jsessionid=5CCB91C4F93D1967E7F125CE5815AC68" CvTextArea="933, 180, 68, 24" CvTextArgument="Sign In" CvType="Text" DesignTimeRectangle="935, 179, 67, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Sign In'" FullSelectorArgument="&lt;webctrl aaname='Sign In' parentid='MenuContent' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sign In' parentid='MenuContent' tag='A' type='' class='' check:innerText='Sign In' /&gt;" Guid="94916ea4-b059-4411-b24b-7f062e97bd06" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="64d979427308608cec0525347724a325.png" xmlns="">0RWDcWgwe3UuRR0DdpzR9GA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

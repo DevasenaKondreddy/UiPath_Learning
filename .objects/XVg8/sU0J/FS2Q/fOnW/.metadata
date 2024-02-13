@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TextBox_City",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "fOnWxTJYSUKBuPuOeR5EiQ",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/fOnWxTJYSUKBuPuOeR5EiQ",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/FS2QyYAgBUWAaJctI8EKHQ",
+  "Created": "2024-02-05T10:49:17.4507296Z",
+  "Updated": "2024-02-05T10:49:34.6344186Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

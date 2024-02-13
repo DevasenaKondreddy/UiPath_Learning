@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click_RegisterNowLink",
+  "Description": "Clicking Register Link",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "KL7ecaBvLUuaUWe9-sQJ_A",
+  "Reference": "i0sEFnm-MUuRZWInYSL7AA/KL7ecaBvLUuaUWe9-sQJ_A",
+  "ParentRef": "i0sEFnm-MUuRZWInYSL7AA/0Cr-JDeQpEGHvQM3pEXxiQ",
+  "Created": "2024-02-05T09:05:56.4107652Z",
+  "Updated": "2024-02-05T09:06:27.8643806Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
