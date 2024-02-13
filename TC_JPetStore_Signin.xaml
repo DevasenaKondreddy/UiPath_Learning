@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="TC1_JPetStore_Signin" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="854,5282" sap2010:WorkflowViewState.IdRef="TC1_JPetStore_Signin_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="TC1_JPetStore_Signin" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1150,5408.666666666667" sap2010:WorkflowViewState.IdRef="TC1_JPetStore_Signin_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -92,27 +92,30 @@
       <AssemblyReference>System.Private.Uri</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TC1_JPetStore_Signin" sap:VirtualizedContainerService.HintSize="608,5217.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="TC1_JPetStore_Signin" sap:VirtualizedContainerService.HintSize="608,5344" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="... Given" sap:VirtualizedContainerService.HintSize="546,4817.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="... Given" sap:VirtualizedContainerService.HintSize="546,4944" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: JPetStore Demo" sap:VirtualizedContainerService.HintSize="484,4706.666666666667" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="88ba20b7-596b-4d94-a284-d646f998a3cf" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: JPetStore Demo" sap:VirtualizedContainerService.HintSize="484,4833.333333333333" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="88ba20b7-596b-4d94-a284-d646f998a3cf" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,4487.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_5">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,4614" sap2010:WorkflowViewState.IdRef="Sequence_5">
               <Sequence.Variables>
                 <Variable x:TypeArguments="x:String" Default="Parrot1234" Name="Str_UserID" />
                 <Variable x:TypeArguments="x:String" Default="Parrot@1234" Name="Str_NewPassword" />
@@ -127,16 +130,8 @@
                 <Variable x:TypeArguments="x:String" Default="Telangana" Name="Str_State" />
                 <Variable x:TypeArguments="x:Int32" Default="500080" Name="Int_Zip" />
                 <Variable x:TypeArguments="x:String" Default="India" Name="Str_Country" />
-                <Variable x:TypeArguments="x:String" Name="Str_english">
-                  <Variable.Default>
-                    <Literal x:TypeArguments="x:String">english</Literal>
-                  </Variable.Default>
-                </Variable>
-                <Variable x:TypeArguments="x:String" Name="Str_BIRDS">
-                  <Variable.Default>
-                    <Literal x:TypeArguments="x:String">BIRDS</Literal>
-                  </Variable.Default>
-                </Variable>
+                <Variable x:TypeArguments="x:String" Default="english" Name="Str_english" />
+                <Variable x:TypeArguments="x:String" Default="BIRDS" Name="Str_BIRDS" />
               </Sequence.Variables>
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -315,6 +310,7 @@
                   <uix:TargetAnchorable BrowserURL="https://petstore.octoperf.com/actions/Account.action?newAccountForm=" ContentHash="UCfr1b1gi0-vCZDxE6qcjQ" CvTextArea="853, 880, 192, 16" CvTextArgument="Save Account Information" CvType="Text" DesignTimeRectangle="852, 877, 195, 25" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'Save Account Information'" FullSelectorArgument="&lt;webctrl name='newAccount' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl name='newAccount' tag='INPUT' type='submit' class='' aaname='Save Account Information' check:text='Save Account Information' /&gt;" Guid="ffd5c53d-2ad4-4fed-a155-d91442fd57d3" InformativeScreenshot="585ab041b95b1d43c18c807dbccc9630.png" Reference="i0sEFnm-MUuRZWInYSL7AA/8tnivv_LI0KYt_LvCwZ4-g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JPetStore Demo' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
                 </uix:NClick.Target>
               </uix:NClick>
+              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="388,86.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Successful&quot;]" />
             </Sequence>
           </ActivityAction>
         </uix:NApplicationCard.Body>
